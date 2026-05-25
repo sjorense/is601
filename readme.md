@@ -13,3 +13,4 @@ git add - add file to "stage" for next commit
 git commit -m 'message' - commit staged file to local repo and adding a description to commit for notes/reference
 git push - push local branch commits to online branch
 git pull - fetch commits from online branch
+git rm - delete file from project and stages for removal for commit
