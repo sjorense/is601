@@ -2,3 +2,4 @@ Linux and Git command cheat sheet:
 sudo - run commands with admin privileges
 cd - changes directory
 mkdir - make directory
+ls - list files/directories
