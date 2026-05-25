@@ -5,3 +5,4 @@ mkdir - make directory
 ls - list files/directories
 rm - remove file/directory
 rmdir - remove empty directory
+pwd - print working directory
