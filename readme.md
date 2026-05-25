@@ -11,3 +11,4 @@ git init - running this command in the current directory initializes it as a git
 git status - show files that were modified in the current directory that are ready for committing to repo
 git add - add file to "stage" for next commit
 git commit -m 'message' - commit staged file to local repo and adding a description to commit for notes/reference
+git push - push local branch commits to online branch
